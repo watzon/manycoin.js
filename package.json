@@ -1,6 +1,6 @@
 {
-  "name": "litecoind",
-  "description": "Communicate with litecoind via JSON-RPC",
+  "name": "manycoin",
+  "description": "Communicate with litecoind (and other crypto daemons) via JSON-RPC",
   "main": "./lib/index.js",
   "version": "0.1.0",
   "scripts": {
