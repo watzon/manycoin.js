@@ -2,7 +2,7 @@
   "name": "manycoin",
   "description": "Communicate with litecoind (and other crypto daemons) via JSON-RPC",
   "main": "./lib/index.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "test": "node ./test/run-all.js"
   },
@@ -15,8 +15,6 @@
     "url": "https://github.com/watzon/manycoin.js/issues"
   },
   "dependencies": {
-    "jayson": "^2.0.5",
-    "litecoin": "^1.1.3",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
