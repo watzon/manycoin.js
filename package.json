@@ -2,7 +2,7 @@
   "name": "manycoin",
   "description": "Communicate with litecoind (and other crypto daemons) via JSON-RPC",
   "main": "./lib/index.js",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "scripts": {
     "test": "node ./test/run-all.js"
   },
